@@ -1,2 +1,2 @@
 # BabyWatcherApp
-BabyWatcher java application
+BabyWatcher java application for Android
